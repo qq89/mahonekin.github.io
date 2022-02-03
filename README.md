@@ -1,18 +1,18 @@
-## Welcome to GitHub Pages
+## mahonekin的博客
 
 You can use the [editor on GitHub](https://github.com/mahonekin/mahonekin.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 支持markdown语法
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# 一号标题 1
+## 2号标题 2
 ### Header 3
 
 - Bulleted
@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**加粗** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
