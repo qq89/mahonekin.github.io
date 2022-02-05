@@ -1,6 +1,6 @@
 20220204
 http://mahonekin.github.io/update.html
-0
+1
 1.更新内容1
 2.更新内容2了了可是交电费绿色空间的
 3.增加了一些bug
